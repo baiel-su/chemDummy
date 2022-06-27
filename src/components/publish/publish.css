@@ -1,0 +1,48 @@
+.write{
+    padding-top: 50px;
+}
+
+.write--form {
+
+}
+
+.btn {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.writeForm--group{
+    margin-left: 150px;
+}
+
+.write--icon {
+    margin-right: 10px;
+}
+
+.write--title{
+    display: block;
+    border: none !important;
+    box-shadow: none;
+    width: 70vw;
+    font-size: 30px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.write--title:focus{
+    outline:none;
+}
+
+.writeText--area{
+    display: block;
+    border: none;
+    box-shadow: none;
+    width: 70vw;
+    font-size: 20px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.writeText--area:focus{
+    outline:none;
+}
